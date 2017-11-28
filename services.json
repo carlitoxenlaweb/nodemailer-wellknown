@@ -279,5 +279,11 @@
         "host":"smtp.mxhichina.com",
         "port":"465",
         "secure": true
+    },
+
+    "One": {
+        "host": "send.one.com",
+        "port": 465,
+        "secure": true
     }
 }
